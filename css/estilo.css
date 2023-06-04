@@ -43,5 +43,9 @@ table {
 }
 
 h1{
-    color: red;
+    color: rgb(202, 79, 79);
+	font-size: 2em;
+	margin: 20px;
+	padding: 10px;
+	text-align: center;
 }
